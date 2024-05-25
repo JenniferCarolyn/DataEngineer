@@ -1,3 +1,3 @@
 1era y 2da entrega creacion del script sin finalizar
 
-Dockerfiles y script(script finalizado) archivos necasarios para correr la imagen en docker
+Dockerfiles y script(script finalizado) archivos necasarios para correr la imagen en docker (ejecutado y creado en Linux)
